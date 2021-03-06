@@ -1,4 +1,4 @@
 # CalorieCalc
 
-This applicaton is calclate your basal metabolism.
-Try It.
+This applicaton calculates your basal metabolism.
+Try it!
